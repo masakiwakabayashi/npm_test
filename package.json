@@ -12,7 +12,7 @@
     "publish-demo": "npm run build && npm run deploy",
     "prepublishOnly": "npm run transpile"
   },
-  "author": "",
+  "author": "masakiwakabayashi",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.20.7",
