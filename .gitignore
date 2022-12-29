@@ -1,2 +1,5 @@
-node_modules
-dist
+src
+examples
+.babelrc
+.gitignore
+webpack.config.js
